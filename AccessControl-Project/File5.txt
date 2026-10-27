@@ -1,0 +1,13 @@
+--- Biological Data File 5: Immune System & Pathogen Research ---
+
+Record 1: Subject=Whale_GW_001; PathogenExposure=Type-A; ImmuneResponse=HIGH;  NucleicAcidProbe=Positive; GeneExpression=Elevated
+Record 2: Subject=Whale_GW_002; PathogenExposure=Type-B; ImmuneResponse=LOW;   NucleicAcidProbe=Negative; GeneExpression=Baseline
+Record 3: Subject=Whale_HW_003; PathogenExposure=Type-A; ImmuneResponse=HIGH;  NucleicAcidProbe=Positive; GeneExpression=Elevated
+Record 4: Subject=Whale_BW_004; PathogenExposure=Type-C; ImmuneResponse=SEVERE; NucleicAcidProbe=Positive; GeneExpression=Critical
+Record 5: Subject=Whale_FW_005; PathogenExposure=None;   ImmuneResponse=NONE;  NucleicAcidProbe=Negative; GeneExpression=Baseline
+
+--- Intervention and Preservation Notes ---
+Rapid response required for subjects with SEVERE immune response rating.
+Wild population breeding programs proposed for species with small pool size.
+Ongoing monitoring of nucleic acid probes recommended across all study cohorts.
+Research objective: encode immune makeup diversity for long-term preservation planning.

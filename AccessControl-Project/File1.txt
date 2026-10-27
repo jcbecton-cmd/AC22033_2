@@ -1,0 +1,24 @@
+1	Stephen R. Palumbi
+2	Charles M. Chambers
+3	Bodo W. Reinisch
+3	Geoffrey Crowley
+4	Charles B. Perrow
+5	Alexander M. Cruickshank
+6	John P. Oliver
+7	Brian Fiedler
+8	Wolfram Gerdes
+9	Thomas W. Broadhead
+9	Steven G. Driese
+12	Belden H. Daniels
+13	E. Benjamin Wylie E. B.
+14	E. Benjamin Wylie
+1	Stephen R. Palumbi
+2	Marcia M. Miller
+3	Wendell H. Fleming
+4	Michael D. Wand
+5	Sallie W. Chisholm
+6	Eric W. Allender
+7	Thomas C. Johnson
+7	Quentin M. Lewis
+8	Robert A. Knox
+9	Howard S. Barnes

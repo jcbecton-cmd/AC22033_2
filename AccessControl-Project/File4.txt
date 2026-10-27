@@ -1,0 +1,13 @@
+--- Biological Data File 4: Population Genetics Index ---
+
+Record 1: Species=Humpback Whale; Region=North Pacific; SampleSize=142; HeterozygosityIndex=0.73; MigrationRate=0.12
+Record 2: Species=Humpback Whale; Region=North Atlantic; SampleSize=98;  HeterozygosityIndex=0.68; MigrationRate=0.09
+Record 3: Species=Gray Whale;     Region=Eastern Pacific; SampleSize=210; HeterozygosityIndex=0.81; MigrationRate=0.21
+Record 4: Species=Blue Whale;     Region=Southern Ocean; SampleSize=57;  HeterozygosityIndex=0.59; MigrationRate=0.07
+Record 5: Species=Fin Whale;      Region=North Atlantic; SampleSize=133; HeterozygosityIndex=0.76; MigrationRate=0.15
+
+--- Gene Flow Analysis Summary ---
+Cross-hemisphere gene flow events detected: 34
+Minimal isolation coefficient (FST): 0.042
+Population subdivision confirmed across 6 discrete oceanic regions
+Conservation status: 3 of 5 species require management intervention
